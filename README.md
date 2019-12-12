@@ -1,3 +1,3 @@
 # Biometric-Encryption
-a fully working prototype.
+A fully working prototype.
 This project’s aim is to create a low budget device to securely encrypt or decrypt files confidentially, using a pre-defined biometric key. This will be achieved using a Raspberry Pi and a biometric fingerprint scanner. The device will be built and tested using Python 2.7 to invoke an encryption and decryption algorithm namely, Advance Encryption Standard (AES). This will use a 256-bit Secure Hash Algorithm SHA-256 as the biometric key on individual files and image files. The research will focus on the methods of creating hashed biometric keys. Using reliable encryption techniques. Another aim of this project, is to explore the ethical impacts of biometric data and its value as ‘hard data’.
